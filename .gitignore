@@ -1,2 +1,9 @@
 .vscode/launch.json
 .vscode/settings.json
+bin
+.mypy_cache
+include
+lib
+lib64
+share
+pyvenv.cfg
